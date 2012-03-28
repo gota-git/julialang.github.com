@@ -3,4 +3,4 @@
 翻译
 
 注释：在中英文交互的版本里面，中文包含在\<cn\>和 \</cn\>区间内，可以使用我写的Python
-脚本pickCN index.md index_cn.md 将index.md里面\<cn\> <\/cn\>里面的中文抽取到文件index_cn.md里面。
+脚本pickCN index.md index_cn.md 将index.md里面\<cn\> \</cn\>里面的中文抽取到文件index_cn.md里面。
